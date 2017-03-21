@@ -1,0 +1,14 @@
+
+body{ 
+  margin:auto; 
+  background:#666; 
+  color: #fff;
+}
+
+#my_canvas{ 
+  background:#fff; 
+  color:#000; 
+  border:#00838F 1px solid; 
+  margin-left: 10%;
+  
+}
